@@ -8,19 +8,19 @@
  <Period duration="PT0H0M19.987S">
   <AdaptationSet segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="60000/1001" par="16:9" lang="und" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
    <Representation id="1" mimeType="video/mp4" codecs="avc1.640820" width="1280" height="720" frameRate="60000/1001" sar="1:1" bandwidth="2712965">
-    <BaseURL>https://d2tnuee6s54b3q.cloudfront.net/game_720_3000k_720p_dashinit.mp4</BaseURL>
+    <BaseURL>https://dash2.s3-us-west-2.amazonaws.com/game_720_3000k_720p_dashinit.mp4</BaseURL>
     <SegmentBase indexRangeExact="true" indexRange="910-1001">
      <Initialization range="0-909"/>
     </SegmentBase>
    </Representation>
    <Representation id="2" mimeType="video/mp4" codecs="avc1.64081F" width="640" height="360" frameRate="60000/1001" sar="1:1" bandwidth="461361">
-    <BaseURL>https://d2tnuee6s54b3q.cloudfront.net/game_720_500k_360p_dashinit.mp4</BaseURL>
+    <BaseURL>https://dash2.s3-us-west-2.amazonaws.com/game_720_500k_360p_dashinit.mp4</BaseURL>
     <SegmentBase indexRangeExact="true" indexRange="911-1002">
      <Initialization range="0-910"/>
     </SegmentBase>
    </Representation>
    <Representation id="3" mimeType="video/mp4" codecs="avc1.64080C" width="160" height="90" frameRate="60000/1001" sar="1:1" bandwidth="99857">
-    <BaseURL>https://d2tnuee6s54b3q.cloudfront.net/game_720_100k_90p_dashinit.mp4</BaseURL>
+    <BaseURL>https://dash2.s3-us-west-2.amazonaws.com/game_720_100k_90p_dashinit.mp4</BaseURL>
     <SegmentBase indexRangeExact="true" indexRange="910-1001">
      <Initialization range="0-909"/>
     </SegmentBase>
